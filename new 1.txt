@@ -1,0 +1,44 @@
+<section id='latest'>     
+        <div class="container">
+            <div class='row'>
+                  <div class='col-md-12 text-center'>
+                      <h3>最新派對</h3>
+                      <div class='row'>
+                          <div class='col-md-4 text-left'>
+                              <div class='outer'>
+                                  <a href='single.html'>
+                                      <div class='upper'>
+                                        <img src='pictures/inner1.png'>
+                                    </a>
+                                       <!-- <div class='innertext'>
+                                                <span>可報名</span>
+                                                <h4>男：HKD380  女：HKD280</h4>
+                                            </div> -->
+                                      </div>
+                                      <div class='lower'>
+                                          <h3>狂歡派對（旅行篇） - 8月</h3>
+                                          <span><i class="fa-solid fa-truck-fast">香港銅鑼灣怡和街2-6號 英光大廈</i></span><br>
+                                          <span><i class="fa-solid fa-ghost">按下訂閱商品</i> </span>
+                                      </div>
+                              </div> 
+                          </div>  
+                          <div class='col-md-4 text-left'>
+                            <div class='outer'>
+                                <a href='single.html'>
+                                    <div class='upper'>
+                                      <img src='pictures/inner1.png'>
+                                  </a>
+                                     <!-- <div class='innertext'>
+                                              <span>可報名</span>
+                                              <h4>男：HKD380  女：HKD280</h4>
+                                          </div> -->
+                                    </div>
+                                    <div class='lower'>
+                                        <h3>狂歡派對（旅行篇） - 8月</h3>
+                                        <span><i class="fa-solid fa-truck-fast">香港銅鑼灣怡和街2-6號 英光大廈</i></span><br>
+                                        <span><i class="fa-solid fa-ghost">按下訂閱商品</i> </span>
+                                    </div>
+                            </div> 
+                        </div>  
+                          
+         </section>
